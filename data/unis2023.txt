@@ -1,0 +1,199 @@
+Arizona State Univ (7)
+Berklee College of Music
+(1)
+Boise State Univ (2)
+Boston Univ (5)
+Brigham Young
+Univ-Provo (2)
+Brigham Young
+Univ-Idaho (1)
+California Bapt. Univ (1)
+California College of the
+Arts (1)
+California College-San
+Marcos (1)
+California Northstate Univ
+(1)
+Carnegie-Mellon Univ (1)
+Case Western Reserve
+Univ (3)
+Chapman (8)
+Colorado State Univ (1)
+Cornell Univ (1)
+Dartmouth College (1)
+Drexel Univ (1)
+EDHEC Business
+School-France (1)
+Embry-Riddle
+Aeronautical
+Univ-Daytona Beach (1)
+Emerson College (1)
+Emory Univ (1)
+Fordham Univ (2)
+George Washington Univ
+(3)
+Georgia Institute of
+Technology (1)
+Gonzaga Univ (4)
+Hague University of
+Applied Sciences (1)
+Hanze Univ Gronigen (1)
+Hawaii Pacific Univ (1)
+Howard Univ(1)
+Idaho College (1)
+Indiana University (4)
+Kettering Univ (1)
+Loyola Marymount Univ
+(5)
+Lewis & Clark College (1)
+Maryland Institute College
+of Art (1)
+Marymount California
+Univ (1)
+Marymount Manhattan
+College (1)
+McGill University (1)
+Michigan State Univ (1)
+New York Univ (2)
+North Carolina A&T State
+Univ (1)
+North Carolina State
+Univ-Raleigh (1)
+Northeastern Univ (2)
+Northwestern (1)
+Occidental College (1)
+Ohio State Univ (1)
+Oregon State Univ (3)
+Otis College of Art &
+Design (1)
+Pacific Univ (1)
+Pennsylvania College of
+Health Sciences (2)
+Pennsylvania State Univ (5)
+Pennsylvania State
+Univ-Harrisburg (1)
+Pepperdine Univ (1)
+Pratt Institute-Main (2)
+Purdue Polytech (3)
+Purdue Univ (10)
+Reed College (1)
+Rensselaer
+Polytechnic Institute (1)
+Rhode Island School of
+Design (1)
+Rice Univ (2)
+Rochester Institute of
+Technology (1)
+Rutgers Univ(4)
+Saint Mary's College of CA
+(1)
+San Francisco Conservatory
+of Music (1)
+Santa Clara Univ (22)
+Savannah College of Art &
+Design (1)
+School of the Art Institute of
+Chicago (1)
+Seattle Univ (1)
+Seton Hall Univ (1)
+SKEMA Business
+School-France (1)
+South Dakota State Univ (1)
+St. John’s Univ (1)
+Stony Brook University (1)
+Suffolk Univ (1)
+Temple Univ (2)
+Texas A & M Univ (1)
+The New School (1)
+The Univ of Arizona (3)
+The Univ of
+Texas-Arlington (1)
+The Univ of Texas-Austin
+(2)
+The Univ of Texas-Dallas
+(1)
+United States Air Force
+Academy (1)
+United States Military
+Academy-West Point (1)
+Univ of British Columbia
+(1)
+Univ of Chicago (1)
+Univ of Colorado-Boulder
+(3)
+Univ of Denver (2)
+Univ of Florida (2)
+Univ of Georgia (1)
+Univ of Hawaii at Hilo (1)
+Univ of Hawaii at Manoa
+(7)
+Univ of Illinois at
+Urbana-Champaign (6)
+Univ of Maryland-College
+Park (1)
+Univ of
+Massachusetts-Amherst (1)
+Univ of
+Massachusetts-Boston (1)
+Univ of Miami (1)
+Univ of Michigan-Ann
+Arbor (2)
+Univ of Minnesota-Twin
+Cities (5)
+Univ of Nevada-Reno (3)
+Univ of North
+Carolina-Chapel Hill (1)
+Univ of North
+Carolina-Charlotte (1)
+Univ of Oregon (4)
+Univ of Portland (5)
+Univ of Puget Sound (1)
+Univ of Rhode Island (1)
+Univ of Rochester (3)
+Univ of San Diego (1)
+Univ of San Francisco (10)
+Univ of Silicone Valley (1)
+Univ of Southern California (6)
+Univ of the Pacific (4)
+Univ of Utah (1)
+Univ of Virginia (1)
+Univ of Washington-Seattle
+Campus (7)
+Univ of Wisconsin-Madison (4)
+Utah State Univ (1)
+Utah Valley Univ (1)
+Virginia Polytechnic Institute
+and State Univ (2)
+Washington Univ-St Louis (2)
+Western Washington Univ (1)
+Wheaton College (1)
+Willamette Univ (1)
+Cal Poly Humboldt (2)
+Cal Poly Pomona (9)
+Cal Poly SLO (9)
+Channel Islands (2)
+Chico (7)
+East Bay (7)
+Fresno (2)
+Fullerton (10)
+Long Beach (18)
+Los Angeles (2)
+Monterey Bay (6)
+Northridge (4)
+Sacramento (12)
+San Bernardino (2)
+San Diego State (15)
+San Jose State (70)
+San Marcos (4)
+Stanislaus (1)
+San Francisco State (20)
+Sonoma State (1)
+Berkeley (9)
+Davis (31)
+Irvine (8)
+Los Angeles (11)
+Merced (18)
+Riverside (21)
+San Diego (12)
+Santa Barbara (23)
+Santa Cruz (33)
